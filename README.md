@@ -16,6 +16,7 @@ type MyStack = {
   database: "MySQL" | "MongoDB" | "Redis";
   ai: "PyTorch";
   cloud: "AWS📚";
+  ci/cd: "GithubAction📚"
   container: "Docker"
 };
 ```
