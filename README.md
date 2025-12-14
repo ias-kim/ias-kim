@@ -24,7 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm a Night 🦉** 
 
@@ -66,7 +66,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 15:26:04 UTC
+ Last Updated on 14/12/2025 15:26:01 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
