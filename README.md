@@ -10,13 +10,13 @@
 
 ```ts
 type MyStack = {
-  languages: "Java" | "Python" | "PHP" | "TypeScript📚";
+  languages: "Java" | "Python" | "PHP" | "TypeScript";
   frontend: "Vue" | "React📚" | "NextJS📚";
-  backend: "Express" | "Laravel" | "Flask" | "NestJS📚" | "Spring📚";
+  backend: "Express" | "Laravel" | "Flask" | "NestJS";
   database: "MySQL" | "MongoDB" | "Redis";
   ai: "PyTorch";
   cloud: "AWS📚";
-  ci/cd: "Github Actions📚"
+  ci/cd: "Github Actions"
   container: "Docker"
 };
 ```
