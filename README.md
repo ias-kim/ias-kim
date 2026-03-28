@@ -15,7 +15,7 @@ type MyStack = {
   backend: "Express" | "Laravel" | "Flask" | "NestJS";
   database: "MySQL" | "MongoDB" | "Redis";
   ai: "PyTorch" | "Langgraph📚" | "n8n📚" ;
-  cloud: "AWS📚";
+  cloud: "AWS";
   ci/cd: "Github Actions"
   container: "Docker"
 };
