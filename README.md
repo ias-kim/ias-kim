@@ -24,7 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -66,7 +66,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2026 16:27:50 UTC
+ Last Updated on 01/05/2026 16:02:55 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
