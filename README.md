@@ -14,8 +14,8 @@ type MyStack = {
   frontend: "Vue" | "React" | "NextJS";
   backend: "Express" | "Laravel" | "Flask" | "NestJS" | "FastAPI";
   database: "MySQL" | "MongoDB" | "Redis";
-  ai: "PyTorch" | "Langgraph📚" | "n8n📚" ;
-  cloud: "AWS" | "Terraform📚";
+  ai: "PyTorch" | "Langgraph" | "n8n" ;
+  cloud: "AWS📚" | "Terraform📚";
   ci/cd: "Github Actions"
   container: "Docker"
 };
