@@ -26,6 +26,33 @@ type MyStack = {
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+🌆 Daytime                1177 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌃 Evening                2232 commits        ████████████░░░░░░░░░░░░░   48.64 % 
+🌙 Night                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   693 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Tuesday                  748 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Wednesday                692 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Thursday                 457 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Friday                   495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Saturday                 935 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Sunday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -39,7 +66,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 16:48:25 UTC
+ Last Updated on 25/07/2026 16:09:51 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
