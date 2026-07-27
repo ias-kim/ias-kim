@@ -24,6 +24,8 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -53,6 +55,28 @@ Sunday                   569 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 33 mins (6.5%)
+
+✍️ 9 lines written by AI, 1,243 lines written by hand (0.72% AI-written)
+
+🔤 3,731,931 Input Tokens, 20,976 Output Tokens
+
+💵 $11.35 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 168 AI Prompts
+
+Sonnet                   47 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.72% of written lines came from AI
+📝 Concise Prompter — average 75 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🔍 Hands-On Reviewer — 96.92% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -66,7 +90,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 16:08:35 UTC
+ Last Updated on 27/07/2026 17:05:05 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
