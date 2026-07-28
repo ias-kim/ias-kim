@@ -28,55 +28,6 @@ type MyStack = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-🌆 Daytime                1177 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌃 Evening                2232 commits        ████████████░░░░░░░░░░░░░   48.64 % 
-🌙 Night                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   693 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Tuesday                  748 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Wednesday                692 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Thursday                 457 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Friday                   495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Saturday                 935 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Sunday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 33 mins (6.5%)
-
-✍️ 9 lines written by AI, 1,243 lines written by hand (0.72% AI-written)
-
-🔤 3,731,931 Input Tokens, 20,976 Output Tokens
-
-💵 $11.35 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 168 AI Prompts
-
-Sonnet                   47 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.72% of written lines came from AI
-📝 Concise Prompter — average 75 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🔍 Hands-On Reviewer — 96.92% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -90,7 +41,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 17:05:05 UTC
+ Last Updated on 28/07/2026 16:46:55 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
