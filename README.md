@@ -58,23 +58,23 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (4.68%)
+⏱ AI Coding Time: 1 hr 1 min (5.3%)
 
-✍️ 0 lines written by AI, 653 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 520 lines written by hand (0.0% AI-written)
 
-🔤 2,129,049 Input Tokens, 11,559 Output Tokens
+🔤 1,337,950 Input Tokens, 6,924 Output Tokens
 
-💵 $6.40 Estimated AI Cost This Week
+💵 $3.96 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 15 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
-Sonnet                   38 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 130 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.55% of changed lines were hand-edited
+📝 Concise Prompter — average 92 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 16:27:29 UTC
+ Last Updated on 30/07/2026 16:42:09 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
