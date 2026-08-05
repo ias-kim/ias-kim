@@ -24,9 +24,9 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -58,23 +58,23 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (41.42%)
+⏱ AI Coding Time: 2 hrs 6 mins (32.52%)
 
-✍️ 1 lines written by AI, 70 lines written by hand (1.41% AI-written)
+✍️ 71 lines written by AI, 204 lines written by hand (25.82% AI-written)
 
-🔤 318,524 Input Tokens, 2,103 Output Tokens
+🔤 2,852,436 Input Tokens, 15,074 Output Tokens
 
-💵 $0.99 Estimated AI Cost This Week
+💵 $8.78 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 5 AI Sessions, 31 AI Prompts
 
-Sonnet                   1 lines             █████████████████████████   100.00 % 
+Sonnet                   72 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.41% of written lines came from AI
-📝 Concise Prompter — average 32 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.75% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.82% of written lines came from AI
+📝 Concise Prompter — average 31 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 77.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 16:58:43 UTC
+ Last Updated on 05/08/2026 16:47:30 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
