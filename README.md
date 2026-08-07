@@ -24,58 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2047%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                248 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-🌆 Daytime                1178 commits        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-🌃 Evening                2232 commits        ████████████░░░░░░░░░░░░░   48.62 % 
-🌙 Night                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   693 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Tuesday                  750 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Wednesday                692 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Thursday                 457 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Friday                   495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Saturday                 935 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Sunday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 6 mins (32.52%)
-
-✍️ 71 lines written by AI, 204 lines written by hand (25.82% AI-written)
-
-🔤 2,852,436 Input Tokens, 15,074 Output Tokens
-
-💵 $8.78 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 31 AI Prompts
-
-Sonnet                   72 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.82% of written lines came from AI
-📝 Concise Prompter — average 31 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 77.85% of changed lines were hand-edited
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -90,7 +39,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 16:47:30 UTC
+ Last Updated on 07/08/2026 16:02:11 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
