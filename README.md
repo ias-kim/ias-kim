@@ -24,7 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,24 +58,24 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 36 mins (15.81%)
+⏱ AI Coding Time: 6 hrs 7 mins (33.82%)
 
-✍️ 836 lines written by AI, 483 lines written by hand (63.38% AI-written)
+✍️ 1,909 lines written by AI, 485 lines written by hand (79.74% AI-written)
 
-🔤 1,052,916 Input Tokens, 122,020 Output Tokens
+🔤 2,232,254 Input Tokens, 260,276 Output Tokens
 
-💵 $17.16 Estimated AI Cost This Week
+💵 $34.49 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 65 AI Prompts
+🧠 5 AI Sessions, 141 AI Prompts
 
-Opus                     841 lines           █████████████████████████   99.64 % 
-Sonnet                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Sonnet                   1,114 lines         ██████████████░░░░░░░░░░░   56.98 % 
+Opus                     841 lines           ███████████░░░░░░░░░░░░░░   43.02 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.38% of written lines came from AI
-📚 Verbose Prompter — average 4,233 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🔍 Hands-On Reviewer — 67.43% of changed lines were hand-edited
+🤖 AI-Driven — 79.74% of written lines came from AI
+📚 Verbose Prompter — average 2,319 characters per prompt
+🔁 Iterative Prompter — average 28 prompts per session
+🚀 High AI Trust — 47.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 15:41:23 UTC
+ Last Updated on 21/08/2026 15:41:09 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
