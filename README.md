@@ -24,7 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,17 +32,17 @@ type MyStack = {
 
 ```text
 🌞 Morning                249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-🌆 Daytime                1182 commits        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-🌃 Evening                2232 commits        ████████████░░░░░░░░░░░░░   48.56 % 
+🌆 Daytime                1182 commits        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+🌃 Evening                2233 commits        ████████████░░░░░░░░░░░░░   48.58 % 
 🌙 Night                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   693 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Tuesday                  750 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Wednesday                696 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Thursday                 458 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Tuesday                  750 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                697 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Thursday                 458 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 Friday                   495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 Saturday                 935 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 Sunday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
@@ -58,40 +58,40 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 7 mins (26.8%)
+⏱ AI Coding Time: 6 hrs 51 mins (26.31%)
 
-✍️ 1,909 lines written by AI, 793 lines written by hand (70.65% AI-written)
+✍️ 2,346 lines written by AI, 768 lines written by hand (75.34% AI-written)
 
-🔤 2,232,254 Input Tokens, 260,276 Output Tokens
+🔤 2,714,311 Input Tokens, 307,752 Output Tokens
 
-💵 $34.49 Estimated AI Cost This Week
+💵 $41.72 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 193 AI Prompts
+🧠 6 AI Sessions, 156 AI Prompts
 
-Sonnet                   1,114 lines         ██████████████░░░░░░░░░░░   56.98 % 
-Opus                     841 lines           ███████████░░░░░░░░░░░░░░   43.02 % 
+Sonnet                   1,569 lines         ████████████████░░░░░░░░░   65.10 % 
+Opus                     841 lines           █████████░░░░░░░░░░░░░░░░   34.90 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.65% of written lines came from AI
-📚 Verbose Prompter — average 1,706 characters per prompt
-🔁 Iterative Prompter — average 39 prompts per session
-🔍 Hands-On Reviewer — 51.81% of changed lines were hand-edited
+🤖 AI-Driven — 75.34% of written lines came from AI
+📚 Verbose Prompter — average 1,758 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
+🚀 High AI Trust — 46.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 25/08/2026 15:52:07 UTC
+ Last Updated on 26/08/2026 16:25:04 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
