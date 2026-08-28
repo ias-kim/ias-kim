@@ -12,7 +12,7 @@
 type MyStack = {
   languages: "Java" | "Python" | "PHP" | "TypeScript" | "Go📚";
   frontend: "Vue" | "React" | "NextJS";
-  backend: "Express" | "Laravel" | "Flask" | "NestJS" | "FastAPI" | "SprintBoot📚";
+  backend: "Express" | "Laravel" | "Flask" | "NestJS" | "FastAPI" | "SpringBoot📚";
   database: "MySQL" | "MongoDB" | "Redis";
   ai: "PyTorch" | "Langgraph" | "n8n" ;
   cloud: "AWS📚" | "Terraform📚";
