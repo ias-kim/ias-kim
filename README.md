@@ -24,7 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -58,23 +58,23 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 40 mins (7.46%)
+⏱ AI Coding Time: 3 hrs 9 mins (16.45%)
 
-✍️ 437 lines written by AI, 75 lines written by hand (85.35% AI-written)
+✍️ 437 lines written by AI, 106 lines written by hand (80.48% AI-written)
 
-🔤 659,543 Input Tokens, 66,347 Output Tokens
+🔤 798,406 Input Tokens, 88,885 Output Tokens
 
-💵 $8.31 Estimated AI Cost This Week
+💵 $9.78 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 28 AI Prompts
+🧠 4 AI Sessions, 87 AI Prompts
 
 Sonnet                   455 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.35% of written lines came from AI
-📚 Verbose Prompter — average 2,490 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 15.58% of changed lines were hand-edited
+🤖 AI-Driven — 80.48% of written lines came from AI
+📄 Detailed Prompter — average 836 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 21.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 18:33:38 UTC
+ Last Updated on 31/08/2026 20:46:24 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
