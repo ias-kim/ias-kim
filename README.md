@@ -24,7 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -58,22 +58,22 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (13.81%)
+⏱ AI Coding Time: 2 hrs 14 mins (12.17%)
 
-✍️ 0 lines written by AI, 141 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 197 lines written by hand (0.0% AI-written)
 
-🔤 199,211 Input Tokens, 23,410 Output Tokens
+🔤 146,322 Input Tokens, 24,574 Output Tokens
 
-💵 $1.63 Estimated AI Cost This Week
+💵 $1.61 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 62 AI Prompts
+🧠 2 AI Sessions, 208 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 31 prompts per session
+📝 Concise Prompter — average 74 characters per prompt
+🔁 Iterative Prompter — average 104 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -90,7 +90,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 18:28:40 UTC
+ Last Updated on 04/09/2026 18:15:28 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
