@@ -58,15 +58,15 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (15.79%)
+⏱ AI Coding Time: 2 hrs 5 mins (13.29%)
 
 ✍️ 15,633 lines written by AI, 52 lines written by hand (99.67% AI-written)
 
-🔤 553,835 Input Tokens, 79,104 Output Tokens
+🔤 312,584 Input Tokens, 58,381 Output Tokens
 
-💵 $9.71 Estimated AI Cost This Week
+💵 $7.37 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 22 AI Prompts
+🧠 13 AI Sessions, 11 AI Prompts
 
 Sonnet                   14,742 lines        ████████████████████████░   94.26 % 
 Opus                     898 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
@@ -74,8 +74,8 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.67% of written lines came from AI
-📚 Verbose Prompter — average 5,691 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 11,306 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
@@ -92,7 +92,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 18:29:49 UTC
+ Last Updated on 27/09/2026 18:58:57 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
