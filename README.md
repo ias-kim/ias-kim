@@ -26,7 +26,7 @@ type MyStack = {
   <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -58,7 +58,7 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 52 mins (29.7%)
+⏱ AI Coding Time: 5 hrs 52 mins (25.93%)
 
 ✍️ 6,915 lines written by AI, 45 lines written by hand (99.35% AI-written)
 
@@ -93,7 +93,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 19:57:08 UTC
+ Last Updated on 01/10/2026 20:17:56 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
