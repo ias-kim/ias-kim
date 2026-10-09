@@ -24,7 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,25 +58,25 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (7.68%)
+⏱ AI Coding Time: 1 hr 22 mins (9.04%)
 
-✍️ 307 lines written by AI, 24 lines written by hand (92.75% AI-written)
+✍️ 283 lines written by AI, 24 lines written by hand (92.18% AI-written)
 
-🔤 1,212,022 Input Tokens, 109,702 Output Tokens
+🔤 1,457,158 Input Tokens, 147,643 Output Tokens
 
-💵 $10.21 Estimated AI Cost This Week
+💵 $13.53 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 38 AI Prompts
+🧠 12 AI Sessions, 40 AI Prompts
 
-Sonnet                   190 lines           ███████████████░░░░░░░░░░   61.89 % 
-Opus                     117 lines           ██████████░░░░░░░░░░░░░░░   38.11 % 
+Sonnet                   190 lines           █████████████████░░░░░░░░   67.14 % 
+Opus                     93 lines            ████████░░░░░░░░░░░░░░░░░   32.86 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.75% of written lines came from AI
-📚 Verbose Prompter — average 6,323 characters per prompt
+🤖 AI-Driven — 92.18% of written lines came from AI
+📚 Verbose Prompter — average 6,022 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.25% of changed lines were hand-edited
+🚀 High AI Trust — 7.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 20:39:13 UTC
+ Last Updated on 09/10/2026 20:05:34 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
