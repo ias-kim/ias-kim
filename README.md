@@ -24,28 +24,28 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                350 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-🌆 Daytime                1322 commits        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌃 Evening                2351 commits        ████████████░░░░░░░░░░░░░   47.44 % 
-🌙 Night                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+🌞 Morning                352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+🌆 Daytime                1322 commits        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌃 Evening                2359 commits        ████████████░░░░░░░░░░░░░   47.50 % 
+🌙 Night                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   724 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Tuesday                  998 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Wednesday                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Friday                   502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Saturday                 935 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Sunday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Monday                   726 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Tuesday                  998 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Wednesday                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Thursday                 471 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Friday                   508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Saturday                 935 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Sunday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 ```
 
 
@@ -58,25 +58,25 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 20 mins (12.21%)
+⏱ AI Coding Time: 3 hrs 45 mins (11.84%)
 
-✍️ 4,543 lines written by AI, 38 lines written by hand (99.17% AI-written)
+✍️ 5,486 lines written by AI, 69 lines written by hand (98.76% AI-written)
 
-🔤 3,422,436 Input Tokens, 482,156 Output Tokens
+🔤 3,993,233 Input Tokens, 511,267 Output Tokens
 
-💵 $50.42 Estimated AI Cost This Week
+💵 $54.56 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 55 AI Prompts
+🧠 22 AI Sessions, 64 AI Prompts
 
-Sonnet                   2,917 lines         ████████████████░░░░░░░░░   63.58 % 
-Opus                     1,671 lines         █████████░░░░░░░░░░░░░░░░   36.42 % 
+Sonnet                   2,917 lines         █████████████░░░░░░░░░░░░   52.74 % 
+Opus                     2,614 lines         ████████████░░░░░░░░░░░░░   47.26 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.17% of written lines came from AI
-📚 Verbose Prompter — average 3,429 characters per prompt
+🤖 AI-Driven — 98.76% of written lines came from AI
+📚 Verbose Prompter — average 3,054 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.42% of changed lines were hand-edited
+🚀 High AI Trust — 1.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 19:01:38 UTC
+ Last Updated on 16/10/2026 18:45:13 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
