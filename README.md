@@ -24,7 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,25 +58,25 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 57 mins (12.3%)
+⏱ AI Coding Time: 3 hrs 40 mins (12.43%)
 
-✍️ 5,486 lines written by AI, 69 lines written by hand (98.76% AI-written)
+✍️ 4,891 lines written by AI, 111 lines written by hand (97.78% AI-written)
 
-🔤 5,268,362 Input Tokens, 536,901 Output Tokens
+🔤 3,973,850 Input Tokens, 461,802 Output Tokens
 
-💵 $63.63 Estimated AI Cost This Week
+💵 $54.75 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 69 AI Prompts
+🧠 24 AI Sessions, 59 AI Prompts
 
-Sonnet                   2,917 lines         █████████████░░░░░░░░░░░░   52.74 % 
-Opus                     2,614 lines         ████████████░░░░░░░░░░░░░   47.26 % 
+Sonnet                   2,917 lines         ███████████████░░░░░░░░░░   59.10 % 
+Opus                     2,019 lines         ██████████░░░░░░░░░░░░░░░   40.90 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.76% of written lines came from AI
-📚 Verbose Prompter — average 2,844 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.83% of changed lines were hand-edited
+🤖 AI-Driven — 97.78% of written lines came from AI
+📚 Verbose Prompter — average 3,316 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 2.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 17:59:01 UTC
+ Last Updated on 19/10/2026 20:32:13 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
