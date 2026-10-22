@@ -58,25 +58,25 @@ Sunday                   569 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 35 mins (13.95%)
+⏱ AI Coding Time: 3 hrs 53 mins (11.74%)
 
-✍️ 5,837 lines written by AI, 171 lines written by hand (97.15% AI-written)
+✍️ 2,738 lines written by AI, 167 lines written by hand (94.25% AI-written)
 
-🔤 4,474,016 Input Tokens, 540,118 Output Tokens
+🔤 3,736,379 Input Tokens, 410,457 Output Tokens
 
-💵 $57.19 Estimated AI Cost This Week
+💵 $50.44 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 77 AI Prompts
+🧠 22 AI Sessions, 64 AI Prompts
 
-Opus                     2,965 lines         █████████████░░░░░░░░░░░░   50.41 % 
-Sonnet                   2,917 lines         ████████████░░░░░░░░░░░░░   49.59 % 
+Opus                     2,738 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.15% of written lines came from AI
-📚 Verbose Prompter — average 4,235 characters per prompt
+🤖 AI-Driven — 94.25% of written lines came from AI
+📚 Verbose Prompter — average 2,905 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.61% of changed lines were hand-edited
+🚀 High AI Trust — 7.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 19:13:38 UTC
+ Last Updated on 22/10/2026 19:08:55 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
