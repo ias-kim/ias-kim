@@ -24,7 +24,7 @@ type MyStack = {
 ### 📊 GitHub Stats
 <div align="center"> 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,15 +58,15 @@ Sunday                   571 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (12.19%)
+⏱ AI Coding Time: 2 hrs 37 mins (14.9%)
 
 ✍️ 1,130 lines written by AI, 23 lines written by hand (98.01% AI-written)
 
-🔤 2,141,733 Input Tokens, 244,277 Output Tokens
+🔤 2,485,397 Input Tokens, 254,709 Output Tokens
 
-💵 $23.14 Estimated AI Cost This Week
+💵 $25.09 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 31 AI Prompts
+🧠 13 AI Sessions, 34 AI Prompts
 
 Opus                     902 lines           ████████████████████░░░░░   79.82 % 
 Sonnet                   228 lines           █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
@@ -74,7 +74,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.01% of written lines came from AI
-📚 Verbose Prompter — average 3,900 characters per prompt
+📚 Verbose Prompter — average 4,001 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 2.33% of changed lines were hand-edited
 ```
@@ -92,7 +92,7 @@ Go                       3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 20:12:19 UTC
+ Last Updated on 29/10/2026 20:10:23 UTC
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
